@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5191283f2b01ae87",
+        "id": "d334c1e85f4b1ad3",
         "type": "tabs",
         "children": [
           {
-            "id": "88171cf6aaf82ade",
+            "id": "203c7b139e43fc46",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,11 +44,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "section:()",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -120,13 +120,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "f113b63306827141",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,11 +143,61 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "7d74c7d63fd2ae12",
+  "active": "203c7b139e43fc46",
   "lastOpenFiles": [
-    "Untitled.canvas"
+    "Templates/Blog Template.md",
+    "Untitled Kanban.md",
+    "Future Insight Blog Tracker.md",
+    "Dashboard.md",
+    "Blogs/2023/Window Winget.md",
+    "Untitled.canvas",
+    "Blogs/2023/tech-journey/flutter/Flutter-begin.md",
+    "Images/future-insight-logo.png",
+    "Blogs/2023/OS/The-world-of-OS.md",
+    "Images/future-insight-logo",
+    "Images",
+    "Blogs/2023/tech-journey/flutter/SetUp.md",
+    "Blogs/2023/tech-journey/flutter/TechJourney-Insights-flutter.md",
+    "Blogs/2023/OS/windows/Winget:A-Powerful-Tool-for-Effortless-Software-Installation-on-Windows.md",
+    "Blogs/2023/OS/windows/Windows-Security-Protecting-Your-Operating-System.md",
+    "Blogs/2023/OS/windows/PowerShell: Unleashing-the-Power-of-Automation-and-System-Management.md",
+    "Blogs/2023/OS/windows/Install-WSL.md",
+    "Blogs/2023/OS/linux/review/fedora.md",
+    "2023-08-04.md",
+    "Blogs/2023/OS/linux/why-linux-is-better.md",
+    "Blogs/2023/OS/linux/Top-5-Commands-linux.md",
+    "Blogs/2023/OS/linux/Terminal-Feedback.md",
+    "Blogs/2023/OS/linux/Secure-Linux.md",
+    "Blogs/2023/OS/linux/Optimize-Your-Fedora-5-Essential-Post-Installation-Steps.md",
+    "Blogs/2023/OS/linux/Nvidia-Driver-Fedora.md",
+    "Blogs/2023/OS/linux/Nivida-Driver.md",
+    "Blogs/2023/OS/linux/MidNightTokyo.md",
+    "Blogs/2023/OS/linux/Linux-Distrobutions.md",
+    "Blogs/2023/OS/linux/Install-Linx.md",
+    "Blogs/2023/OS/linux/Install-application.md",
+    "Blogs/2023/Web-Development",
+    "Blogs/2023/tech-journey/flutter",
+    "Blogs/2023/tech-journey",
+    "Blogs/2023/OS/linux/review",
+    "Blogs/2023/OS/windows",
+    "Blogs/2023/OS/linux",
+    "Blogs/2023/OS",
+    "Blogs/2023/essential-skills",
+    "Blogs/Machine Learning/Best-Resources-For-Machine-Learning/best-resources-for-ml.png",
+    "Blogs/Machine Learning/Python vs JavaScript for ML/Python-JavaScript.png",
+    "Blogs/Machine Learning/Machine Learning Required Blink Skils/Machine-learning-Requires-Blink-Skills.jpg",
+    "Blogs/Machine Learning/SVM/image-07.png",
+    "Blogs/Machine Learning/SVM/image-06.png",
+    "Blogs/Machine Learning/SVM/image-05.png",
+    "Blogs/Machine Learning/SVM/image-04.png",
+    "Blogs/Machine Learning/SVM/image-03.png",
+    "Blogs/Machine Learning/SVM/image-02.png"
   ]
 }
