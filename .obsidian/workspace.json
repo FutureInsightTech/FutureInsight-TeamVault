@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d334c1e85f4b1ad3",
+        "id": "a1c53dbbff29d128",
         "type": "tabs",
         "children": [
           {
-            "id": "203c7b139e43fc46",
+            "id": "1044736df47390bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Daily Tasks.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Tasks.md"
+              }
             }
           },
           {
@@ -145,24 +151,36 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "203c7b139e43fc46",
+  "active": "1044736df47390bb",
   "lastOpenFiles": [
-    "Templates/Blog Template.md",
-    "Untitled Kanban.md",
-    "Future Insight Blog Tracker.md",
+    "git_commit.sh",
+    "Templates/Task Template.md",
+    "Tasks/Future insight Android Application.md",
+    "Daily Tasks.md",
+    "Future-Insight-Content-Management.md",
+    "README.md",
+    "Dashboard/Dashboard.md",
+    "Tasks",
+    "Images/future-insight-logo.png",
+    "Images",
+    "Dashboard/Images/future-insight-logo.png",
     "Dashboard.md",
+    "Dashboard",
+    "Untitled.md",
+    "Templates/Blog Template.md",
+    "Future Insight Blog Tracker.md",
     "Blogs/2023/Window Winget.md",
     "Untitled.canvas",
     "Blogs/2023/tech-journey/flutter/Flutter-begin.md",
-    "Images/future-insight-logo.png",
     "Blogs/2023/OS/The-world-of-OS.md",
     "Images/future-insight-logo",
-    "Images",
+    "Dashboard/Images",
     "Blogs/2023/tech-journey/flutter/SetUp.md",
     "Blogs/2023/tech-journey/flutter/TechJourney-Insights-flutter.md",
     "Blogs/2023/OS/windows/Winget:A-Powerful-Tool-for-Effortless-Software-Installation-on-Windows.md",
@@ -175,21 +193,11 @@
     "Blogs/2023/OS/linux/Top-5-Commands-linux.md",
     "Blogs/2023/OS/linux/Terminal-Feedback.md",
     "Blogs/2023/OS/linux/Secure-Linux.md",
-    "Blogs/2023/OS/linux/Optimize-Your-Fedora-5-Essential-Post-Installation-Steps.md",
-    "Blogs/2023/OS/linux/Nvidia-Driver-Fedora.md",
-    "Blogs/2023/OS/linux/Nivida-Driver.md",
-    "Blogs/2023/OS/linux/MidNightTokyo.md",
-    "Blogs/2023/OS/linux/Linux-Distrobutions.md",
-    "Blogs/2023/OS/linux/Install-Linx.md",
-    "Blogs/2023/OS/linux/Install-application.md",
     "Blogs/2023/Web-Development",
     "Blogs/2023/tech-journey/flutter",
     "Blogs/2023/tech-journey",
     "Blogs/2023/OS/linux/review",
     "Blogs/2023/OS/windows",
-    "Blogs/2023/OS/linux",
-    "Blogs/2023/OS",
-    "Blogs/2023/essential-skills",
     "Blogs/Machine Learning/Best-Resources-For-Machine-Learning/best-resources-for-ml.png",
     "Blogs/Machine Learning/Python vs JavaScript for ML/Python-JavaScript.png",
     "Blogs/Machine Learning/Machine Learning Required Blink Skils/Machine-learning-Requires-Blink-Skills.jpg",
@@ -197,7 +205,6 @@
     "Blogs/Machine Learning/SVM/image-06.png",
     "Blogs/Machine Learning/SVM/image-05.png",
     "Blogs/Machine Learning/SVM/image-04.png",
-    "Blogs/Machine Learning/SVM/image-03.png",
-    "Blogs/Machine Learning/SVM/image-02.png"
+    "Blogs/Machine Learning/SVM/image-03.png"
   ]
 }
