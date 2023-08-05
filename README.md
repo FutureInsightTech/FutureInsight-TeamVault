@@ -1,6 +1,6 @@
 # FutureInsight-TeamVault
 
-![Future Insight Logo](/Images/future-insight-logo.png)
+![Future Insight Logo](future-insight-logo.png)
 
 Welcome to the Future Insight Obsidian vault! This vault serves as a knowledge repository and collaboration hub for our organization. Here, you'll find a collection of notes, ideas, and insights related to our projects, research, and innovations.
 
