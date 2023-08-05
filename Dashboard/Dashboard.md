@@ -68,38 +68,3 @@ SORT file.name ASC
 ```
 
 
-
-# Blog Progress
-
-
-## Blog Idea
-
-
-
-## Thumbnail Images
-
-
-
-## Blog Content
-
-
-
-## References Link
-
-
-
-## Deployment
-
-
-
-## Announcement
-
-
-
-
-
-%% kanban:settings
-```
-{"kanban-plugin":"basic","new-note-folder":"Blogs/2023","new-note-template":"Templates/Blog Template.md","show-checkboxes":true}
-```
-%%
