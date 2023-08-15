@@ -4,20 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "a1c53dbbff29d128",
+        "id": "dee510e939852b6f",
         "type": "tabs",
         "children": [
           {
-            "id": "1044736df47390bb",
+            "id": "f679f757d01b7d10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blogs/2023/The Reality of Ai Coding Tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3af3b379f009b0f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blogs/2023/Should You Learn JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6eefb897511a5c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blogs/2023/Hugo Deploy Automation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6820f8b65703a483",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Daily Tasks.md"
+                "file": "Future-Insight-Content-Management.md"
+              }
+            }
+          },
+          {
+            "id": "3ffd985b1eec04fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blogs/2023/Different Type of Testing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -83,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Tasks.md",
+                "file": "Future-Insight-Content-Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Tasks.md",
+                "file": "Future-Insight-Content-Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Tasks.md"
+                "file": "Future-Insight-Content-Management.md"
               }
             }
           },
@@ -135,12 +184,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,13 +205,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1044736df47390bb",
+  "active": "6820f8b65703a483",
   "lastOpenFiles": [
+    "Blogs/2023/Hugo Deploy Automation.md",
+    "Future-Insight-Content-Management.md",
+    "Blogs/2023/Should You Learn JavaScript.md",
+    "Blogs/2023/Different Type of Testing.md",
+    "Blogs/2023/The Reality of Ai Coding Tools.md",
+    "Blogs/2023/OS/linux/My Linux Journey.md",
+    "Pasted image 20230814151712.png",
+    "Blogs/2023/OS/linux/Untitled",
+    "Blogs/2023/Create your know HUGO  theme using Snails.md",
+    "Daily Tasks.md",
     "git_commit.sh",
     "Templates/Task Template.md",
     "Tasks/Future insight Android Application.md",
-    "Daily Tasks.md",
-    "Future-Insight-Content-Management.md",
     "README.md",
     "Dashboard/Dashboard.md",
     "Tasks",
@@ -187,24 +243,15 @@
     "Blogs/2023/OS/windows/Windows-Security-Protecting-Your-Operating-System.md",
     "Blogs/2023/OS/windows/PowerShell: Unleashing-the-Power-of-Automation-and-System-Management.md",
     "Blogs/2023/OS/windows/Install-WSL.md",
-    "Blogs/2023/OS/linux/review/fedora.md",
-    "2023-08-04.md",
-    "Blogs/2023/OS/linux/why-linux-is-better.md",
-    "Blogs/2023/OS/linux/Top-5-Commands-linux.md",
-    "Blogs/2023/OS/linux/Terminal-Feedback.md",
-    "Blogs/2023/OS/linux/Secure-Linux.md",
     "Blogs/2023/Web-Development",
     "Blogs/2023/tech-journey/flutter",
     "Blogs/2023/tech-journey",
-    "Blogs/2023/OS/linux/review",
-    "Blogs/2023/OS/windows",
     "Blogs/Machine Learning/Best-Resources-For-Machine-Learning/best-resources-for-ml.png",
     "Blogs/Machine Learning/Python vs JavaScript for ML/Python-JavaScript.png",
     "Blogs/Machine Learning/Machine Learning Required Blink Skils/Machine-learning-Requires-Blink-Skills.jpg",
     "Blogs/Machine Learning/SVM/image-07.png",
     "Blogs/Machine Learning/SVM/image-06.png",
     "Blogs/Machine Learning/SVM/image-05.png",
-    "Blogs/Machine Learning/SVM/image-04.png",
-    "Blogs/Machine Learning/SVM/image-03.png"
+    "Blogs/Machine Learning/SVM/image-04.png"
   ]
 }

@@ -7,14 +7,21 @@ kanban-plugin: basic
 ## Blog Idea
 
 - [ ] Flutter: Difference Between Stateless & State
+- [ ] JavaScript as Multi-Thread
+- [ ] [[Different Type of Testing]]
+- [ ] [[Hugo Deploy Automation]]
+- [ ] [[Create your know HUGO  theme using Snails]]
+- [ ] Setup Netifily config File for Hugo
 
 
 ## Thumbnail
 
+- [ ] [[Should You Learn JavaScript]]
 
 
 ## Content
 
+- [ ] [[The Reality of Ai Coding Tools]]
 
 
 ## Reference Link
@@ -29,7 +36,11 @@ kanban-plugin: basic
 
 
 
+***
 
+## Archive
+
+- [ ] [[My Linux Journey]]
 
 %% kanban:settings
 ```
