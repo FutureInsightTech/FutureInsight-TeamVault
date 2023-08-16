@@ -16,12 +16,12 @@ kanban-plugin: basic
 
 ## Thumbnail
 
-- [ ] [[Should You Learn JavaScript]]
 
 
 ## Content
 
 - [ ] [[The Reality of Ai Coding Tools]]
+- [ ] [[Should You Learn JavaScript]]
 
 
 ## Reference Link
